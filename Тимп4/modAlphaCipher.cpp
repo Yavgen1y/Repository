@@ -1,5 +1,4 @@
 /*! @file modAlphaCipher.cpp
-* @author Максимов О.В.
 * @version 1.0.0
 * @date 13.06.2019
 * @brief Заголовочный файл для модуля modAlphaCipher.cpp
